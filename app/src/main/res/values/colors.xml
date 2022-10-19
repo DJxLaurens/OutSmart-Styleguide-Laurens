@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Outsmart Style !-->
+    <color name="outsmart_primary">#e84b1e</color>
+    <color name="outsmart_secondary">#333333</color>
+    <color name="outsmart_inactive_state">#a2a2a2</color>
+    <color name="outsmart_inactive_state_dark_mode">#7c7c7c</color>
+    <color name="outsmart_text_primary">#000000</color>
+    <color name="outsmart_text_secondary">#8a8a8f</color>
+    <color name="outsmart_text_primary_dark">#ffffff</color>
+    <color name="outsmart_text_secondary_dark">#8f8e94</color>
+    <color name="outsmart_background">#ececec</color>
+    <color name="outsmart_background_dark">#000000</color>
+    <color name="outsmart_workorder_overview_background">#ffffff</color>
+    <color name="outsmart_workorder_overview_background_dark">#1c1c1e</color>
+    <color name="workorder_status_pending">#85e100</color>
+    <color name="workorder_status_in_progress">#ffc801</color>
+    <color name="workorder_status_in_completed">#bfbfbf</color>
+</resources>
